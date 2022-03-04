@@ -1,6 +1,5 @@
 Dans le cadre de la formation Développeur Web et Web Mobile,
-j’ai choisi de présenter les réalisations relatives au stage 
-que j’ai effectué au sein de l’agence de communication Be Com’ Different 
+j’ai effectué au sein de l’agence de communication Be Com’ Different 
 basée sur Saint-Paul-lès-Dax dans les Landes. Parmi ses activités, cette entreprise conçoit et commercialise
 notamment des sites vitrine et e-commerce : la mission qui m’a été confiée a été de concevoir 
 une application web à usage interne. Cet Outil de Gestion de Sites « OGS » doit permettre au développeur 
